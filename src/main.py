@@ -82,8 +82,8 @@ def main() -> None:
     matches_df = fetch_matches(cfg).sort_values('utcDate')
 
     from .teamname_map import normalize_team
-        matches_df["home_team"] = matches_df["home_team"].apply(normalize_team)
-        matches_df["away_team"] = matches_df["away_team"].apply(normalize_team)
+    matches_df["home_team"] = matches_df["home_team"].apply(normalize_team)
+    matches_df["away_team"] = matches_df["away_team"].apply(normalize_team)
     
     # 3) Gem matches
     matches_path = cfg['outputs']['matches_csv']
