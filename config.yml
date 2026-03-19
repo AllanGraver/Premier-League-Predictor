@@ -14,11 +14,11 @@ days_back: 365                  # antal dage bagud til rating-opdatering
 days_forward: 7                 # antal dage frem i tid for kommende kampe
 
 # --- Elo-parametre (model) ---
-home_advantage: 50              # hjemmebanefordel i Elo-point (typisk 40–60)
-k_factor: 20                    # hvor aggressivt ratings opdateres (10–30)
+home_advantage: 45              # hjemmebanefordel i Elo-point (typisk 40–60)
+k_factor: 18                    # hvor aggressivt ratings opdateres (10–30)
 
 xgelo:
-  xg_scale: 1.0                 # skalerer xG→actual. >1 = mere følsom, <1 = mere konservativ
+  xg_scale: 1.1                 # skalerer xG→actual. >1 = mere følsom, <1 = mere konservativ
 
 prediction:
   max_goals: 6                  # Poisson-grid 0..max_goals (6 er typisk nok)
