@@ -1,0 +1,53 @@
+# =============================
+# Konfiguration – PL xGElo model
+# =============================
+# Denne fil styrer både data-/modelopsætning og hvordan rapporten vises.
+# Linjer der starter med # er kun forklaringer.
+
+# --- Liga/Periode ---
+competition_code: PL            # PL = Premier League
+season: auto                    # auto = brug aktuel sæson
+
+# Hvor meget historik skal bruges til xGElo, og hvor langt frem skal der forudsiges
+days_back: 365                  # antal dage bagud til rating-opdatering
+
+days_forward: 7                 # antal dage frem i tid for kommende kampe
+
+# --- Elo-parametre (model) ---
+home_advantage: 50              # hjemmebanefordel i Elo-point (typisk 40–60)
+k_factor: 20                    # hvor aggressivt ratings opdateres (10–30)
+
+xgelo:
+  xg_scale: 1.0                 # skalerer xG→actual. >1 = mere følsom, <1 = mere konservativ
+
+prediction:
+  max_goals: 6                  # Poisson-grid 0..max_goals (6 er typisk nok)
+  top_n_scorelines: 3           # vis Top-N mest sandsynlige scorelines i output
+
+# --- UI/visning (Scenario 1: Sejrschancer + Trafiklys + Top-scorelines) ---
+ui:
+  # show_raw_ratings: Vis/Skjul rå xGElo-tal i rapporten.
+  #  - true  = vis ratingtal (for interne brugere)
+  #  - false = skjul ratingtal (publikumsvenligt)
+  show_raw_ratings: false
+
+  # show_strength_stars: Vis stjerneindikator for intern holdstyrke
+  # (beregnes som percentil af intern rating – 5 stjerner = stærkest)
+  show_strength_stars: false    # false i Scenario 1
+
+  # traffic_light: Trafiklys-label baseret på forskel i hjemme/udebane-chance
+  #  - 'strong_gap' er grænsen for “klar favorit” (fx 0.20 = 20 procentpoint)
+  traffic_light:
+    enabled: true
+    strong_gap: 0.20
+
+  # upset: Upset-ikon når underdog har mindst denne chance (fx 0.30 = 30%)
+  upset:
+    enabled: true
+    threshold: 0.30
+
+outputs:
+  matches_csv: data/matches.csv
+  elo_csv: data/xgelo_ratings.csv
+  predictions_csv: data/predictions.csv
+  predictions_md: reports/predictions.md
