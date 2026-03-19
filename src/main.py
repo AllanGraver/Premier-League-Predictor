@@ -29,7 +29,7 @@ def predictions_to_markdown_s1(pred_df: pd.DataFrame, cfg: dict, title: str = "P
     upset = (ui.get('upset') or {})
 
     if pred_df.empty:
-        return f"# {title}
+        return f"# {title}\n\nIngen kommende kampe fundet i perioden.\n"
 
 Ingen kommende kampe fundet i perioden.
 "
