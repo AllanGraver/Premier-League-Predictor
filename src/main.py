@@ -6,7 +6,7 @@ import pandas as pd
 
 from .utils import utc_today, iso
 from .fetch_football_data import fetch_matches
-from .xg_fbref import fetch_pl_schedule_with_xg
+from .xg_understat import fetch_epl_schedule_with_xg
 from .xgelo_model import compute_xgelo
 from .predict import make_predictions
 from .ui_format import fav_label, upset_icon
@@ -76,7 +76,7 @@ def main() -> None:
     cfg["_date_to"] = iso(date_to)
 
     # 1) FBref xG historik
-    pl_xg = fetch_pl_schedule_with_xg()
+    pl_xg = fetch_epl_schedule_with_xg()
     xg_hist = pl_xg[(pl_xg['status'] == 'FINISHED') & (pl_xg['date'] >= pd.to_datetime(date_from))]
 
     # 2) Officielle fixtures (næste uge)
