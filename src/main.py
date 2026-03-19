@@ -60,9 +60,9 @@ Ingen kommende kampe fundet i perioden.
         lines.append(f"**Forventede mål (λ):** hjemme={r['lambda_home']}, ude={r['lambda_away']}")
         lines.append("")
 
-    return "
+    return
 ".join(lines) + "
-"
+
 
 
 def main() -> None:
