@@ -57,8 +57,7 @@ def predictions_to_markdown_s1(pred_df: pd.DataFrame, cfg: dict, title: str = "P
         lines.append(f"**Forventede mål (λ):** hjemme={r['lambda_home']}, ude={r['lambda_away']}")
         lines.append("")
 
-    return
-".join(lines) + "
+    return "\n".join(lines) + "\n"
 
 
 
