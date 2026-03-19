@@ -31,9 +31,6 @@ def predictions_to_markdown_s1(pred_df: pd.DataFrame, cfg: dict, title: str = "P
     if pred_df.empty:
         return f"# {title}\n\nIngen kommende kampe fundet i perioden.\n"
 
-Ingen kommende kampe fundet i perioden.
-
-
     lines = [f"# {title} (Sejrschancer + Trafiklys + Top-scorelines)", "", f"Genereret: {pd.Timestamp.utcnow().strftime('%Y-%m-%d %H:%M UTC')}", ""]
 
     for _, r in pred_df.iterrows():
