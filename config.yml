@@ -14,7 +14,7 @@ days_back: 365                  # antal dage bagud til rating-opdatering
 days_forward: 7                 # antal dage frem i tid for kommende kampe
 
 # --- Elo-parametre (model) ---
-home_advantage: 45              # hjemmebanefordel i Elo-point (typisk 40–60)
+home_advantage: 25              # hjemmebanefordel i Elo-point (typisk 40–60)
 k_factor: 18                    # hvor aggressivt ratings opdateres (10–30)
 
 xgelo:
