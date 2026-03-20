@@ -1,6 +1,6 @@
 # Premier League – næste uges kampe (Sejrschancer + Trafiklys + Top-scorelines)
 
-Genereret: 2026-03-19 20:06 UTC
+Genereret: 2026-03-20 06:07 UTC
 
 ## Bournemouth vs Manchester United (2026-03-20 20:00 UTC)
 **Chancer:** 🟩 Hjemme 48%  |  🟨 Uafgjort 25%  |  🟥 Ude 28%
