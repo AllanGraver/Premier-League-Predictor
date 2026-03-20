@@ -45,9 +45,17 @@ def outcome_probs_and_top_scorelines(lh: float, la: float, max_goals: int = 6, t
 
 def league_goal_baseline(matches_df: pd.DataFrame):
     finished = matches_df[(matches_df["status"] == "FINISHED") & matches_df["home_goals"].notna() & matches_df["away_goals"].notna()].copy()
+   
     if finished.empty:
-        return 1.40, 1.10
-    return float(finished["home_goals"].astype(float).mean()), float(finished["away_goals"].astype(float).mean())
+        # fallback: brug samme baseline for hjemme/ude
+        base = 1.25
+        return base, base
+
+    base = (float(finished["home_goals"].astype(float).mean())
+            + float(finished["away_goals"].astype(float).mean())) / 2.0
+
+    return base, base
+
 
 
 def elo_to_goal_means(elo_home: float, elo_away: float, base_home: float, base_away: float, home_advantage: float = 50.0, alpha: float = 0.70):
