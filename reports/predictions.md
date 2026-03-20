@@ -1,52 +1,52 @@
 # Premier League – næste uges kampe (Sejrschancer + Trafiklys + Top-scorelines)
 
-Genereret: 2026-03-20 14:06 UTC
+Genereret: 2026-03-20 14:13 UTC
 
 ## Bournemouth vs Manchester United (2026-03-20 20:00 UTC)
-**Chancer:** 🟩 Hjemme 42%  |  🟨 Uafgjort 25%  |  🟥 Ude 33%
+**Chancer:** 🟩 Hjemme 39%  |  🟨 Uafgjort 26%  |  🟥 Ude 35%
 **Kampbillede:** ⚠️ 🟨 Åben kamp
-**Top scorelines:** 1) 1-1 (p≈12.0%) | 2) 1-0 (p≈9.4%) | 3) 2-1 (p≈8.8%)
-**Forventede mål (λ):** hjemme=1.468, ude=1.281
+**Top scorelines:** 1) 1-1 (p≈12.1%) | 2) 1-0 (p≈9.1%) | 3) 0-1 (p≈8.6%)
+**Forventede mål (λ):** hjemme=1.41, ude=1.333
 
 ## Brighton vs Liverpool (2026-03-21 12:30 UTC)
-**Chancer:** 🟩 Hjemme 40%  |  🟨 Uafgjort 26%  |  🟥 Ude 34%
+**Chancer:** 🟩 Hjemme 38%  |  🟨 Uafgjort 26%  |  🟥 Ude 37%
 **Kampbillede:** ⚠️ 🟨 Åben kamp
-**Top scorelines:** 1) 1-1 (p≈12.1%) | 2) 1-0 (p≈9.3%) | 3) 2-1 (p≈8.7%)
-**Forventede mål (λ):** hjemme=1.443, ude=1.303
+**Top scorelines:** 1) 1-1 (p≈12.1%) | 2) 1-0 (p≈8.9%) | 3) 0-1 (p≈8.8%)
+**Forventede mål (λ):** hjemme=1.386, ude=1.356
 
 ## Fulham vs Burnley (2026-03-21 15:00 UTC)
-**Chancer:** 🟩 Hjemme 46%  |  🟨 Uafgjort 25%  |  🟥 Ude 29%
-**Kampbillede:** 🟨 Åben kamp
-**Top scorelines:** 1) 1-1 (p≈11.8%) | 2) 1-0 (p≈9.9%) | 3) 2-1 (p≈9.3%)
-**Forventede mål (λ):** hjemme=1.573, ude=1.195
+**Chancer:** 🟩 Hjemme 43%  |  🟨 Uafgjort 25%  |  🟥 Ude 31%
+**Kampbillede:** ⚠️ 🟨 Åben kamp
+**Top scorelines:** 1) 1-1 (p≈12.0%) | 2) 1-0 (p≈9.6%) | 3) 2-1 (p≈9.0%)
+**Forventede mål (λ):** hjemme=1.51, ude=1.245
 
 ## Everton vs Chelsea (2026-03-21 17:30 UTC)
-**Chancer:** 🟩 Hjemme 40%  |  🟨 Uafgjort 26%  |  🟥 Ude 35%
+**Chancer:** 🟥 Hjemme 37%  |  🟨 Uafgjort 26%  |  🟩 Ude 37%
 **Kampbillede:** ⚠️ 🟨 Åben kamp
-**Top scorelines:** 1) 1-1 (p≈12.1%) | 2) 1-0 (p≈9.2%) | 3) 2-1 (p≈8.6%)
-**Forventede mål (λ):** hjemme=1.424, ude=1.32
+**Top scorelines:** 1) 1-1 (p≈12.1%) | 2) 0-1 (p≈8.9%) | 3) 1-0 (p≈8.8%)
+**Forventede mål (λ):** hjemme=1.367, ude=1.376
 
 ## Leeds vs Brentford (2026-03-21 20:00 UTC)
-**Chancer:** 🟩 Hjemme 42%  |  🟨 Uafgjort 25%  |  🟥 Ude 33%
+**Chancer:** 🟩 Hjemme 39%  |  🟨 Uafgjort 26%  |  🟥 Ude 35%
 **Kampbillede:** ⚠️ 🟨 Åben kamp
-**Top scorelines:** 1) 1-1 (p≈12.0%) | 2) 1-0 (p≈9.4%) | 3) 2-1 (p≈8.8%)
-**Forventede mål (λ):** hjemme=1.468, ude=1.28
+**Top scorelines:** 1) 1-1 (p≈12.1%) | 2) 1-0 (p≈9.1%) | 3) 0-1 (p≈8.6%)
+**Forventede mål (λ):** hjemme=1.411, ude=1.332
 
 ## Newcastle United FC vs Sunderland (2026-03-22 12:00 UTC)
-**Chancer:** 🟩 Hjemme 45%  |  🟨 Uafgjort 25%  |  🟥 Ude 30%
-**Kampbillede:** 🟨 Åben kamp
-**Top scorelines:** 1) 1-1 (p≈11.9%) | 2) 1-0 (p≈9.8%) | 3) 2-1 (p≈9.2%)
-**Forventede mål (λ):** hjemme=1.549, ude=1.213
+**Chancer:** 🟩 Hjemme 42%  |  🟨 Uafgjort 25%  |  🟥 Ude 32%
+**Kampbillede:** ⚠️ 🟨 Åben kamp
+**Top scorelines:** 1) 1-1 (p≈12.0%) | 2) 1-0 (p≈9.5%) | 3) 2-1 (p≈8.9%)
+**Forventede mål (λ):** hjemme=1.488, ude=1.264
 
 ## Aston Villa vs West Ham (2026-03-22 14:15 UTC)
-**Chancer:** 🟩 Hjemme 45%  |  🟨 Uafgjort 25%  |  🟥 Ude 30%
+**Chancer:** 🟩 Hjemme 42%  |  🟨 Uafgjort 25%  |  🟥 Ude 32%
 **Kampbillede:** ⚠️ 🟨 Åben kamp
-**Top scorelines:** 1) 1-1 (p≈11.9%) | 2) 1-0 (p≈9.8%) | 3) 2-1 (p≈9.2%)
-**Forventede mål (λ):** hjemme=1.544, ude=1.218
+**Top scorelines:** 1) 1-1 (p≈12.0%) | 2) 1-0 (p≈9.5%) | 3) 2-1 (p≈8.9%)
+**Forventede mål (λ):** hjemme=1.482, ude=1.269
 
 ## Tottenham vs Nottingham Forest (2026-03-22 14:15 UTC)
-**Chancer:** 🟩 Hjemme 44%  |  🟨 Uafgjort 25%  |  🟥 Ude 31%
+**Chancer:** 🟩 Hjemme 41%  |  🟨 Uafgjort 25%  |  🟥 Ude 34%
 **Kampbillede:** ⚠️ 🟨 Åben kamp
-**Top scorelines:** 1) 1-1 (p≈12.0%) | 2) 1-0 (p≈9.7%) | 3) 2-1 (p≈9.1%)
-**Forventede mål (λ):** hjemme=1.517, ude=1.24
+**Top scorelines:** 1) 1-1 (p≈12.1%) | 2) 1-0 (p≈9.3%) | 3) 2-1 (p≈8.8%)
+**Forventede mål (λ):** hjemme=1.455, ude=1.292
 
