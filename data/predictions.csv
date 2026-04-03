@@ -1,1 +1,2 @@
-utcDate,home_team,away_team,p_home,p_draw,p_away,predicted_result
+utcDate,competition_code,matchday,home_team,away_team,lambda_home,lambda_away,p_home,p_draw,p_away,predicted_result,top1,top1_p,top2,top2_p,top3,top3_p
+2026-04-10 19:00:00+00:00,PL,32,West Ham,Wolverhampton Wanderers,1.46,1.288,0.4118,0.2548,0.3334,1-1,1-1,0.1206,1-0,0.0936,2-1,0.088
