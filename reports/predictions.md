@@ -1,6 +1,6 @@
 # Premier League – næste uges kampe (Sejrschancer + Trafiklys + Top-scorelines)
 
-Genereret: 2026-04-04 06:12 UTC
+Genereret: 2026-04-05 06:20 UTC
 
 ## West Ham vs Wolverhampton Wanderers (2026-04-10 19:00 UTC)
 **Chancer:** 🟩 Hjemme 41%  |  🟨 Uafgjort 25%  |  🟥 Ude 33%
@@ -31,4 +31,28 @@ Genereret: 2026-04-04 06:12 UTC
 **Kampbillede:** ⚠️ 🟨 Åben kamp
 **Top scorelines:** 1) 1-1 (p≈11.9%) | 2) 1-0 (p≈9.7%) | 3) 2-1 (p≈9.1%)
 **Forventede mål (λ):** hjemme=1.519, ude=1.238
+
+## Nottingham Forest vs Aston Villa (2026-04-12 13:00 UTC)
+**Chancer:** 🟩 Hjemme 38%  |  🟨 Uafgjort 26%  |  🟥 Ude 36%
+**Kampbillede:** ⚠️ 🟨 Åben kamp
+**Top scorelines:** 1) 1-1 (p≈12.1%) | 2) 1-0 (p≈9.0%) | 3) 0-1 (p≈8.7%)
+**Forventede mål (λ):** hjemme=1.395, ude=1.347
+
+## Sunderland vs Tottenham (2026-04-12 13:00 UTC)
+**Chancer:** 🟩 Hjemme 40%  |  🟨 Uafgjort 26%  |  🟥 Ude 34%
+**Kampbillede:** ⚠️ 🟨 Åben kamp
+**Top scorelines:** 1) 1-1 (p≈12.1%) | 2) 1-0 (p≈9.3%) | 3) 2-1 (p≈8.7%)
+**Forventede mål (λ):** hjemme=1.444, ude=1.302
+
+## Crystal Palace vs Newcastle United FC (2026-04-12 13:00 UTC)
+**Chancer:** 🟩 Hjemme 41%  |  🟨 Uafgjort 26%  |  🟥 Ude 34%
+**Kampbillede:** ⚠️ 🟨 Åben kamp
+**Top scorelines:** 1) 1-1 (p≈12.1%) | 2) 1-0 (p≈9.3%) | 3) 2-1 (p≈8.8%)
+**Forventede mål (λ):** hjemme=1.45, ude=1.297
+
+## Chelsea vs Manchester City (2026-04-12 15:30 UTC)
+**Chancer:** 🟩 Hjemme 40%  |  🟨 Uafgjort 26%  |  🟥 Ude 35%
+**Kampbillede:** ⚠️ 🟨 Åben kamp
+**Top scorelines:** 1) 1-1 (p≈12.1%) | 2) 1-0 (p≈9.2%) | 3) 2-1 (p≈8.6%)
+**Forventede mål (λ):** hjemme=1.425, ude=1.319
 
