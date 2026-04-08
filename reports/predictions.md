@@ -1,6 +1,6 @@
 # Premier League – næste uges kampe (Sejrschancer + Trafiklys + Top-scorelines)
 
-Genereret: 2026-04-07 06:46 UTC
+Genereret: 2026-04-08 06:50 UTC
 
 ## West Ham vs Wolverhampton Wanderers (2026-04-10 19:00 UTC)
 **Chancer:** 🟩 Hjemme 41%  |  🟨 Uafgjort 25%  |  🟥 Ude 33%
@@ -12,13 +12,13 @@ Genereret: 2026-04-07 06:46 UTC
 **Chancer:** 🟩 Hjemme 44%  |  🟨 Uafgjort 25%  |  🟥 Ude 31%
 **Kampbillede:** ⚠️ 🟨 Åben kamp
 **Top scorelines:** 1) 1-1 (p≈11.9%) | 2) 1-0 (p≈9.7%) | 3) 2-1 (p≈9.1%)
-**Forventede mål (λ):** hjemme=1.526, ude=1.233
+**Forventede mål (λ):** hjemme=1.525, ude=1.233
 
 ## Brentford vs Everton (2026-04-11 14:00 UTC)
 **Chancer:** 🟩 Hjemme 43%  |  🟨 Uafgjort 25%  |  🟥 Ude 32%
 **Kampbillede:** ⚠️ 🟨 Åben kamp
 **Top scorelines:** 1) 1-1 (p≈12.0%) | 2) 1-0 (p≈9.5%) | 3) 2-1 (p≈9.0%)
-**Forventede mål (λ):** hjemme=1.491, ude=1.261
+**Forventede mål (λ):** hjemme=1.492, ude=1.261
 
 ## Burnley vs Brighton (2026-04-11 14:00 UTC)
 **Chancer:** 🟥 Hjemme 36%  |  🟨 Uafgjort 26%  |  🟩 Ude 39%
@@ -59,6 +59,6 @@ Genereret: 2026-04-07 06:46 UTC
 ## Manchester United vs Leeds (2026-04-13 19:00 UTC)
 **Chancer:** 🟩 Hjemme 43%  |  🟨 Uafgjort 25%  |  🟥 Ude 32%
 **Kampbillede:** ⚠️ 🟨 Åben kamp
-**Top scorelines:** 1) 1-1 (p≈12.0%) | 2) 1-0 (p≈9.6%) | 3) 2-1 (p≈9.0%)
+**Top scorelines:** 1) 1-1 (p≈12.0%) | 2) 1-0 (p≈9.5%) | 3) 2-1 (p≈9.0%)
 **Forventede mål (λ):** hjemme=1.495, ude=1.257
 
