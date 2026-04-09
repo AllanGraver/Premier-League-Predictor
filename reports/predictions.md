@@ -1,6 +1,6 @@
 # Premier League – næste uges kampe (Sejrschancer + Trafiklys + Top-scorelines)
 
-Genereret: 2026-04-08 06:50 UTC
+Genereret: 2026-04-09 06:50 UTC
 
 ## West Ham vs Wolverhampton Wanderers (2026-04-10 19:00 UTC)
 **Chancer:** 🟩 Hjemme 41%  |  🟨 Uafgjort 25%  |  🟥 Ude 33%
