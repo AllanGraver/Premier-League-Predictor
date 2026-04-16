@@ -1,6 +1,6 @@
 # Premier League – næste uges kampe (Sejrschancer + Trafiklys + Top-scorelines)
 
-Genereret: 2026-04-15 07:02 UTC
+Genereret: 2026-04-16 07:03 UTC
 
 ## Brentford vs Fulham (2026-04-18 11:30 UTC)
 **Chancer:** 🟩 Hjemme 43%  |  🟨 Uafgjort 25%  |  🟥 Ude 32%
