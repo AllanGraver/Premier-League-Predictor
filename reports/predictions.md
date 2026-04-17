@@ -1,6 +1,6 @@
 # Premier League – næste uges kampe (Sejrschancer + Trafiklys + Top-scorelines)
 
-Genereret: 2026-04-16 07:03 UTC
+Genereret: 2026-04-17 07:04 UTC
 
 ## Brentford vs Fulham (2026-04-18 11:30 UTC)
 **Chancer:** 🟩 Hjemme 43%  |  🟨 Uafgjort 25%  |  🟥 Ude 32%
@@ -32,6 +32,12 @@ Genereret: 2026-04-16 07:03 UTC
 **Top scorelines:** 1) 1-1 (p≈12.1%) | 2) 1-0 (p≈9.3%) | 3) 2-1 (p≈8.8%)
 **Forventede mål (λ):** hjemme=1.45, ude=1.296
 
+## Nottingham Forest vs Burnley (2026-04-19 13:00 UTC)
+**Chancer:** 🟩 Hjemme 43%  |  🟨 Uafgjort 25%  |  🟥 Ude 32%
+**Kampbillede:** ⚠️ 🟨 Åben kamp
+**Top scorelines:** 1) 1-1 (p≈12.0%) | 2) 1-0 (p≈9.6%) | 3) 2-1 (p≈9.0%)
+**Forventede mål (λ):** hjemme=1.497, ude=1.255
+
 ## Aston Villa vs Sunderland (2026-04-19 13:00 UTC)
 **Chancer:** 🟩 Hjemme 42%  |  🟨 Uafgjort 25%  |  🟥 Ude 33%
 **Kampbillede:** ⚠️ 🟨 Åben kamp
@@ -44,12 +50,6 @@ Genereret: 2026-04-16 07:03 UTC
 **Top scorelines:** 1) 1-1 (p≈12.1%) | 2) 1-0 (p≈8.9%) | 3) 0-1 (p≈8.8%)
 **Forventede mål (λ):** hjemme=1.381, ude=1.361
 
-## Nottingham Forest vs Burnley (2026-04-19 13:00 UTC)
-**Chancer:** 🟩 Hjemme 43%  |  🟨 Uafgjort 25%  |  🟥 Ude 32%
-**Kampbillede:** ⚠️ 🟨 Åben kamp
-**Top scorelines:** 1) 1-1 (p≈12.0%) | 2) 1-0 (p≈9.6%) | 3) 2-1 (p≈9.0%)
-**Forventede mål (λ):** hjemme=1.497, ude=1.255
-
 ## Manchester City vs Arsenal (2026-04-19 15:30 UTC)
 **Chancer:** 🟩 Hjemme 39%  |  🟨 Uafgjort 26%  |  🟥 Ude 35%
 **Kampbillede:** ⚠️ 🟨 Åben kamp
@@ -60,7 +60,7 @@ Genereret: 2026-04-16 07:03 UTC
 **Chancer:** 🟩 Hjemme 43%  |  🟨 Uafgjort 25%  |  🟥 Ude 32%
 **Kampbillede:** ⚠️ 🟨 Åben kamp
 **Top scorelines:** 1) 1-1 (p≈12.0%) | 2) 1-0 (p≈9.6%) | 3) 2-1 (p≈9.0%)
-**Forventede mål (λ):** hjemme=1.498, ude=1.254
+**Forventede mål (λ):** hjemme=1.497, ude=1.255
 
 ## Brighton vs Chelsea (2026-04-21 19:00 UTC)
 **Chancer:** 🟩 Hjemme 38%  |  🟨 Uafgjort 26%  |  🟥 Ude 36%
@@ -79,4 +79,10 @@ Genereret: 2026-04-16 07:03 UTC
 **Kampbillede:** ⚠️ 🟨 Åben kamp
 **Top scorelines:** 1) 1-1 (p≈12.0%) | 2) 0-1 (p≈9.5%) | 3) 1-2 (p≈8.9%)
 **Forventede mål (λ):** hjemme=1.27, ude=1.479
+
+## Sunderland vs Nottingham Forest (2026-04-24 19:00 UTC)
+**Chancer:** 🟩 Hjemme 41%  |  🟨 Uafgjort 26%  |  🟥 Ude 34%
+**Kampbillede:** ⚠️ 🟨 Åben kamp
+**Top scorelines:** 1) 1-1 (p≈12.1%) | 2) 1-0 (p≈9.3%) | 3) 2-1 (p≈8.8%)
+**Forventede mål (λ):** hjemme=1.45, ude=1.296
 
