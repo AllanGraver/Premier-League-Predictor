@@ -1,6 +1,6 @@
 # Premier League – næste uges kampe (Sejrschancer + Trafiklys + Top-scorelines)
 
-Genereret: 2026-04-29 07:35 UTC
+Genereret: 2026-04-30 07:38 UTC
 
 ## Leeds vs Burnley (2026-05-01 19:00 UTC)
 **Chancer:** 🟩 Hjemme 46%  |  🟨 Uafgjort 25%  |  🟥 Ude 29%
